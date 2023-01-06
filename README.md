@@ -5,7 +5,7 @@ Website which fetches news from freely available news api and renders the news b
 
 ---
 ---
-# Getting Started with Create React App
+# To run the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
